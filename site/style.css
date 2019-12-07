@@ -97,12 +97,7 @@
 			margin-left: auto;
 			margin-right: auto;
 		}
-		.colmn-md-12 {
-			float: left;
-			width: 100%;
-			margin-left: auto;
-			margin-right: auto;
-		}
+		
 	}
 	/*mobile version*/
 	@media (max-width: 767px){
