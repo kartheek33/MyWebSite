@@ -19,14 +19,14 @@ section {
     background-color: #b5c4d2;
     padding: 15px;
     width:100%;
-    margin-top: 6px;
+    margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
 }
 div {
 		width: 100%;
-		padding: 3px;
-		margin-left: auto;
-		margin-right: auto;
-		margin-bottom: auto;
+		padding: 15px;
+		
 	}
 section>h2 {
 
