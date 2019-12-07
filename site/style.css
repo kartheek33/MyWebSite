@@ -16,13 +16,11 @@ h1 {
 	}
 
 section {
-    border: 1px solid black;
     background-color: #b5c4d2;
     padding: 15px;
     width:100%;
 }
 div {
-		position: relative;
 		background-color: gray;
 		border: 4px solid white;
 		width: 100%;
@@ -35,14 +33,12 @@ section>h2 {
     float: right;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
-    margin: 0;
     width: 230px;
     text-align: center;
     font-style: Arial;
     font-size: 24px;
     font-weight: bold;
     height: 45px;
-    padding-top: 10px;
     color: black;
 
 }
@@ -87,8 +83,7 @@ section>p {
     .col-md-6 {
         float: left;
         width: 50%;
-        margin-left: auto;
-		margin-right: auto;
+       
     }
     
 }
